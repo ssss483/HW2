@@ -24,10 +24,10 @@
 
 
 **3. Permission:** Linux is multy-user system so there is a need to share authority.( read, write, excute )
-  + |- or d | owner's authority | group's authority | other's authority |
+  + |- or d | owner's authority | group's authority | other's authority |  
   |-:file, d:directory | rwx|rwx|rwx|
   + *chmod: changing permission*
-    |chmode |n1|n2|n3| (file)|
+    |chmode |n1|n2|n3| (file)|  
     |   |owner's authority|group's authority | other's authority |
   +7: rwx
   +6: rw-
